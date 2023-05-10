@@ -10,35 +10,28 @@
       <change afterPath="$PROJECT_DIR$/../../../alura/engenharia_dados/beam/poetry.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../alura/engenharia_dados/beam/pyproject.toml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../alura/engenharia_dados/beam/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../archive_old/python_projects/.idea/python_projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../archive_old/python_projects/dronepilot/.idea/dronepilot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../archive_old/python_projects/pulumi_aws/.idea/pulumi_aws.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../archive_old/python_projects/unimed-send-customer-data/.idea/unimed-send-customer-data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../python_projects/dronepilot/.idea/dronepilot.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../python_projects/dronepilot/.python-version" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../python_projects/dronepilot/hello.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../python_projects/dronepilot/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compile.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/cashflow/ItemCashFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/enums/ActionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/enums/ItemCashFlowType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/request/RequestAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/util/DateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/util/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/util/ValidationUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/act/platform/util/DateUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/act/platform/util/ItemCashFlowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/act/platform/util/JsonBaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/act/platform/util/RequestActionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../sicredi/investment-funds-card-offer/.idea/investment-funds-card-offer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../sicredi/investment-funds-card-offer/.idea/modules/service/investment-funds-card-offer.investment-funds-card-offer-service.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../sicredi/investment-funds-card-offer/.idea/modules/service/investment-funds-card-offer.investment-funds-card-offer-service.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../workspace/.idea/workspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/cashflow/CashFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/exceptions/ApplicationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/exceptions/EntityFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/exceptions/EntityInvalidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/exceptions/EntityNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/request/RequestCashFlowReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/util/IdUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/act/platform/model/CashFlowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/act/platform/model/ExceptionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/Fontes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/Fontes.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -2304,6 +2297,15 @@
       <change beforePath="$PROJECT_DIR$/../../../sicredi/sicredi-salesforce-cxm-bff/src/test/resources/customer_data_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sicredi/sicredi-salesforce-cxm-bff/src/test/resources/customer_data_info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../sicredi/teste" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../sicredi/token_dev" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sicredi/token_dev" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/cashflow/ItemCashFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/cashflow/ItemCashFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/enums/ActionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/enums/ActionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/enums/ItemCashFlowType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/enums/ItemCashFlowType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/act/platform/util/ValidationUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/util/ValidationUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/act/platform/util/ItemCashFlowTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/act/platform/model/ItemCashFlowTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/act/platform/util/JsonBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/act/platform/util/JsonBaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/act/platform/util/RequestActionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/act/platform/model/RequestActionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../sfg-reactive-brewery" beforeDir="false" afterPath="$PROJECT_DIR$/../../sfg-reactive-brewery" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../sfg-restful-brewery" beforeDir="false" afterPath="$PROJECT_DIR$/../../sfg-restful-brewery" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../streaming-stock-quote-service" beforeDir="false" afterPath="$PROJECT_DIR$/../../streaming-stock-quote-service" afterDir="false" />
@@ -2377,11 +2379,18 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.ItemCashFlowTest.shouldMarshallUnmarshall">
-    <configuration name="DateUtilsTest.shouldEndOfDay" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.act.platform.model.exceptions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.CashFlowTest">
+    <configuration name="CashFlowTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -2394,7 +2403,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;br.com.act.platform.util.DateUtilsTest.shouldEndOfDay&quot;" />
+            <option value="&quot;br.com.act.platform.model.CashFlowTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -2404,7 +2413,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="DateUtilsTest.shouldNow" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="CashFlowTest.shouldCheckTotal" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -2417,7 +2426,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;br.com.act.platform.util.DateUtilsTest.shouldNow&quot;" />
+            <option value="&quot;br.com.act.platform.model.CashFlowTest.shouldCheckTotal&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -2427,7 +2436,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="ItemCashFlowTest.shouldBeValidate" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="CashFlowTest.shouldMarshallUnmarshall" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -2440,7 +2449,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;br.com.act.platform.util.ItemCashFlowTest.shouldBeValidate&quot;" />
+            <option value="&quot;br.com.act.platform.model.CashFlowTest.shouldMarshallUnmarshall&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -2450,7 +2459,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="ItemCashFlowTest.shouldMarshallUnmarshall" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ExceptionTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -2463,7 +2472,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;br.com.act.platform.util.ItemCashFlowTest.shouldMarshallUnmarshall&quot;" />
+            <option value="&quot;br.com.act.platform.model.ExceptionTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -2473,7 +2482,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="RequestActionTest.shouldMarshallUnmarshall" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ExceptionTest.shouldEntityInvalidException" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -2486,7 +2495,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;br.com.act.platform.util.RequestActionTest.shouldMarshallUnmarshall&quot;" />
+            <option value="&quot;br.com.act.platform.model.ExceptionTest.shouldEntityInvalidException&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -2498,11 +2507,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.ItemCashFlowTest.shouldMarshallUnmarshall" />
-        <item itemvalue="Gradle.ItemCashFlowTest.shouldBeValidate" />
-        <item itemvalue="Gradle.RequestActionTest.shouldMarshallUnmarshall" />
-        <item itemvalue="Gradle.DateUtilsTest.shouldNow" />
-        <item itemvalue="Gradle.DateUtilsTest.shouldEndOfDay" />
+        <item itemvalue="Gradle.CashFlowTest" />
+        <item itemvalue="Gradle.CashFlowTest.shouldMarshallUnmarshall" />
+        <item itemvalue="Gradle.CashFlowTest.shouldCheckTotal" />
+        <item itemvalue="Gradle.ExceptionTest.shouldEntityInvalidException" />
+        <item itemvalue="Gradle.ExceptionTest" />
       </list>
     </recent_temporary>
   </component>

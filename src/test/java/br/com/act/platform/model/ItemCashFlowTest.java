@@ -1,7 +1,10 @@
-package br.com.act.platform.util;
+package br.com.act.platform.model;
 
 import br.com.act.platform.model.cashflow.ItemCashFlow;
 import br.com.act.platform.model.enums.ItemCashFlowType;
+import br.com.act.platform.util.DateUtils;
+import br.com.act.platform.util.JsonBaseTest;
+import br.com.act.platform.util.ValidationUtils;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

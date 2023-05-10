@@ -1,6 +1,9 @@
 package br.com.act.platform.util;
 
-import jakarta.validation.*;
+import jakarta.validation.ConstraintViolation;
+import jakarta.validation.Validation;
+import jakarta.validation.ValidationException;
+import jakarta.validation.ValidatorFactory;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -12,7 +15,7 @@ public final class ValidationUtils {
 
         try (ValidatorFactory factory = Validation.buildDefaultValidatorFactory()) {
             violations = factory.getValidator().validate(obj);
-        } catch(ValidationException e) {
+        } catch (ValidationException e) {
             e.printStackTrace();
         }
 

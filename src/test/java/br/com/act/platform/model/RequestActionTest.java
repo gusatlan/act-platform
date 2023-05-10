@@ -1,7 +1,9 @@
-package br.com.act.platform.util;
+package br.com.act.platform.model;
 
 import br.com.act.platform.model.enums.ActionType;
 import br.com.act.platform.model.request.RequestAction;
+import br.com.act.platform.util.DateUtils;
+import br.com.act.platform.util.JsonBaseTest;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

@@ -59,8 +59,27 @@ public final class ItemCashFlow implements Comparable<ItemCashFlow> {
         return itemCashFlow != null && itemCashFlow.date != null && date != null ? date.compareTo(itemCashFlow.date) : 0;
     }
 
+    @Override
+    public boolean equals(Object obj) {
+        return obj instanceof ItemCashFlow other &&
+                isValid() &&
+                other.isValid() &&
+                date.isEqual(other.getDate()) &&
+                type.equals(other.getType()) &&
+                value.equals(other.getValue()) &&
+                description.trim().equalsIgnoreCase(other.getDescription().trim());
+    }
+
+    @Override
+    public int hashCode() {
+        return (date != null ? date.hashCode() : 0) ^
+                (type != null ? type.hashCode() : 0) ^
+                (value != null ? value.hashCode() : 0) ^
+                (description != null ? description.hashCode() : 0);
+    }
+
     @JsonIgnore
-    public final Boolean isValid() {
+    public Boolean isValid() {
         return date != null && type != null && value != null && value.doubleValue() >= 0D && description != null && !description.isBlank();
     }
 
@@ -71,33 +90,32 @@ public final class ItemCashFlow implements Comparable<ItemCashFlow> {
         private BigDecimal value;
         private String description;
 
-        public final Builder withDate(final LocalDateTime date) {
+        public Builder withDate(final LocalDateTime date) {
             this.date = date;
             return this;
         }
 
-        public final Builder withType(final ItemCashFlowType type) {
+        public Builder withType(final ItemCashFlowType type) {
             this.type = type;
             return this;
         }
 
-        public final Builder withValue(final BigDecimal value) {
+        public Builder withValue(final BigDecimal value) {
             this.value = value.abs();
             return this;
         }
 
-        public final Builder withValue(final Double value) {
+        public Builder withValue(final Double value) {
             return withValue(BigDecimal.valueOf(value));
         }
 
-        public final Builder withDescription(final String description) {
+        public Builder withDescription(final String description) {
             this.description = description != null ? description.trim().toUpperCase() : null;
             return this;
         }
 
-        public final ItemCashFlow build() {
+        public ItemCashFlow build() {
             return new ItemCashFlow(date, type, value, description);
         }
-
     }
 }

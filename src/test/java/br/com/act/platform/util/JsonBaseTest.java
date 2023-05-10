@@ -7,11 +7,11 @@ public abstract class JsonBaseTest {
 
     protected ObjectMapper mapper = JsonUtils.buildMapper();
 
-    final <T> String writeJson(final T value) throws JsonProcessingException {
+    protected final <T> String writeJson(final T value) throws JsonProcessingException {
         return JsonUtils.write(value, mapper);
     }
 
-    final <T> T readJson(final String value, final Class<T> clazz) throws JsonProcessingException {
+    protected final <T> T readJson(final String value, final Class<T> clazz) throws JsonProcessingException {
         return JsonUtils.read(value, clazz, mapper);
     }
 }
