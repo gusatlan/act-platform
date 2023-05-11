@@ -73,10 +73,4 @@ public final class RequestCashFlowReport {
             );
         }
     }
-
-    //TODO Criar o teste unitário
-    //TODO Criar a classe de retorno do relatório, já com o link do pdf, e criar o teste unitário
-    //TODO Criar o docker para compilar a biblioteca
-    //TODO Criar os scripts para compilar e criar o docker image
-    //TODO Começar a desenvolver o microservice
 }

@@ -5,6 +5,9 @@ import java.time.ZoneId;
 import java.util.Date;
 
 public final class DateUtils {
+    private DateUtils() {
+    }
+
     private static final ZoneId DEFAULT_ZONE_ID = getDefaultZoneId();
     private static final int NANO = 999999999;
 

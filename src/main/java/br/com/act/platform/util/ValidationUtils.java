@@ -10,6 +10,9 @@ import java.util.Set;
 
 public final class ValidationUtils {
 
+    private ValidationUtils() {
+    }
+
     public static <T> Set<ConstraintViolation<T>> validate(final T obj) {
         Set<ConstraintViolation<T>> violations = new HashSet<>();
 
