@@ -1,7 +1,3 @@
-* TODO Criar o docker para compilar a biblioteca
-* TODO Criar os scripts para compilar e criar o docker image
-* TODO Começar a desenvolver o microservice
-
 
 ## 2023-05-11
 
