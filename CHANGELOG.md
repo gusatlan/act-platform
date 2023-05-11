@@ -5,6 +5,8 @@
 * Criação da classe RequestCashFlowReport;
 * Criação da classe ResponseCashFlowReport;
 * Criação da classe utilitária EncodeUtils e seu teste unitário, para transformação em string Base64;
+* Criado Dockerfile como imagem base para utilizar a biblioteca com os micro services;
+* Modificado scripts compile e compile.bat para além de compilar localmente, também criar a imagem;
 
 
 ## 2023-05-10

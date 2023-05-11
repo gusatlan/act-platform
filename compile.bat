@@ -1,5 +1,9 @@
 @ECHO OFF
 
 gradlew clean test build publish
+docker build -t act-platform-image:1.0.0 .
+docker build -t act-platform-image:latest .
+
+#docker run --rm -it act-platform-image:latest bash
 
 ECHO ON

@@ -22,6 +22,7 @@
       <change afterPath="$PROJECT_DIR$/../../../sicredi/investment-funds-card-offer/.idea/modules/service/investment-funds-card-offer.investment-funds-card-offer-service.main.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../sicredi/investment-funds-card-offer/.idea/modules/service/investment-funds-card-offer.investment-funds-card-offer-service.test.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../workspace/.idea/workspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/Fontes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/Fontes.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -2288,7 +2289,9 @@
       <change beforePath="$PROJECT_DIR$/../../../sicredi/teste" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../sicredi/token_dev" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sicredi/token_dev" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/cashflow/ReportCashFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/model/cashflow/ReportCashFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compile" beforeDir="false" afterPath="$PROJECT_DIR$/compile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compile.bat" beforeDir="false" afterPath="$PROJECT_DIR$/compile.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../sfg-reactive-brewery" beforeDir="false" afterPath="$PROJECT_DIR$/../../sfg-reactive-brewery" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../sfg-restful-brewery" beforeDir="false" afterPath="$PROJECT_DIR$/../../sfg-restful-brewery" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../streaming-stock-quote-service" beforeDir="false" afterPath="$PROJECT_DIR$/../../streaming-stock-quote-service" afterDir="false" />
