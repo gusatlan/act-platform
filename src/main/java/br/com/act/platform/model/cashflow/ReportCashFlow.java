@@ -34,7 +34,7 @@ public final class ReportCashFlow {
         private String content;
 
         private String generateFilename() {
-            StringBuffer buf = new StringBuffer();
+            StringBuilder buf = new StringBuilder();
 
             buf.append("cash_flow");
 
@@ -48,15 +48,11 @@ public final class ReportCashFlow {
         }
 
         private String generateLinkContent() {
-            StringBuffer buf = new StringBuffer();
-
-            buf.append("<a href=\"data:application/pdf;base64,");
-            buf.append(content);
-            buf.append("\" download=\"");
-            buf.append(generateFilename());
-            buf.append("\"/>");
-
-            return buf.toString();
+            return "<a href=\"data:application/pdf;base64," +
+                    content +
+                    "\" download=\"" +
+                    generateFilename() +
+                    "\"/>";
         }
 
         public Builder withRequest(final RequestCashFlowReport request) {
