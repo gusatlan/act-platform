@@ -2,6 +2,7 @@ package br.com.act.platform.util;
 
 import java.time.LocalDateTime;
 import java.time.ZoneId;
+import java.time.format.DateTimeFormatter;
 import java.util.Date;
 
 public final class DateUtils {
@@ -11,8 +12,14 @@ public final class DateUtils {
     private static final ZoneId DEFAULT_ZONE_ID = getDefaultZoneId();
     private static final int NANO = 999999999;
 
+    private static final DateTimeFormatter fmt = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
+
     public static ZoneId getDefaultZoneId() {
         return ZoneId.of("America/Sao_Paulo");
+    }
+
+    public static LocalDateTime convert(final String value) {
+        return LocalDateTime.parse(value, fmt);
     }
 
     public static LocalDateTime convert(final Date date) {

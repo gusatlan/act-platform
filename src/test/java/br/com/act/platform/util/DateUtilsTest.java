@@ -64,4 +64,10 @@ public class DateUtilsTest {
         Assertions.assertNotEquals(expected, DateUtils.now());
     }
 
+    @Test
+    void shouldParseDate() {
+        final String value = "2023-05-12 10:53:00";
+        final LocalDateTime date = DateUtils.convert(value);
+    }
+
 }
