@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "br.com.act"
-version = "1.0.3"
+version = "1.0.4"
 val jasperVersion = "6.20.0"
 
 repositories {

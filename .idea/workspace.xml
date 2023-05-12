@@ -22,8 +22,6 @@
       <change afterPath="$PROJECT_DIR$/../../../sicredi/investment-funds-card-offer/.idea/modules/service/investment-funds-card-offer.investment-funds-card-offer-service.main.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../sicredi/investment-funds-card-offer/.idea/modules/service/investment-funds-card-offer.investment-funds-card-offer-service.test.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../workspace/.idea/workspace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/act/platform/util/ReportUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/act/platform/util/ReportUtilsTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cashflow/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cashflow/CHANGELOG.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cashflow/README.md" afterDir="false" />
@@ -2300,8 +2298,10 @@
       <change beforePath="$PROJECT_DIR$/../../../sicredi/sicredi-salesforce-cxm-bff/src/test/resources/customer_data_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sicredi/sicredi-salesforce-cxm-bff/src/test/resources/customer_data_info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../sicredi/teste" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../sicredi/token_dev" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sicredi/token_dev" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/act/platform/util/ReportUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/util/ReportUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../sfg-reactive-brewery" beforeDir="false" afterPath="$PROJECT_DIR$/../../sfg-reactive-brewery" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../sfg-restful-brewery" beforeDir="false" afterPath="$PROJECT_DIR$/../../sfg-restful-brewery" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../streaming-stock-quote-service" beforeDir="false" afterPath="$PROJECT_DIR$/../../streaming-stock-quote-service" afterDir="false" />
@@ -2371,16 +2371,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/media/fileserver2/develop/kotlin/unimed/report",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/fileserver2/develop/kotlin/unimed/report&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="br.com.act.platform.model.exceptions" />
