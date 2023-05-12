@@ -2298,10 +2298,8 @@
       <change beforePath="$PROJECT_DIR$/../../../sicredi/sicredi-salesforce-cxm-bff/src/test/resources/customer_data_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sicredi/sicredi-salesforce-cxm-bff/src/test/resources/customer_data_info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../sicredi/teste" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../sicredi/token_dev" beforeDir="false" afterPath="$PROJECT_DIR$/../../../sicredi/token_dev" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/act/platform/util/ReportUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/util/ReportUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/act/platform/util/ReportUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/act/platform/util/ReportUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../sfg-reactive-brewery" beforeDir="false" afterPath="$PROJECT_DIR$/../../sfg-reactive-brewery" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../sfg-restful-brewery" beforeDir="false" afterPath="$PROJECT_DIR$/../../sfg-restful-brewery" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../streaming-stock-quote-service" beforeDir="false" afterPath="$PROJECT_DIR$/../../streaming-stock-quote-service" afterDir="false" />

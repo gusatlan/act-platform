@@ -5,10 +5,8 @@ import net.sf.jasperreports.engine.util.JRLoader;
 
 import java.io.IOException;
 import java.io.InputStream;
-import java.nio.file.Paths;
 import java.sql.Connection;
 import java.util.Map;
-import java.util.UUID;
 
 public final class ReportUtils {
 
@@ -16,7 +14,7 @@ public final class ReportUtils {
     }
 
     public static InputStream getReportFile(final String filename) {
-        return ReportUtils.class.getResourceAsStream(filename);
+        return ReportUtils.class.getClassLoader().getResourceAsStream(filename);
     }
 
     private static JasperReport retrieveReport(final InputStream is) throws JRException, IOException {
