@@ -1,3 +1,7 @@
+## 2023-05-12
+
+* Criação de classe utilitária para geração de relatório com Jasper Reports;
+* Criação de método para converter data de formato string (yyyy-MM-dd HH:mm:ss) para LocalDateTime;
 
 ## 2023-05-11
 

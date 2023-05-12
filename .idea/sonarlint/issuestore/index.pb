@@ -56,3 +56,17 @@ o
 :
 
 Dockerfile,6/6/6651ddff6eb82c840ced7c1dddee15c6e1913dd4
+t
+Dsrc/main/java/br/com/act/platform/model/cashflow/ReportCashFlow.java,5/b/5b1bd8ae98b8317324ab307adf0ce906525a7b14
+r
+Bsrc/main/java/br/com/act/platform/model/cashflow/ItemCashFlow.java,7/8/78cd6a40707b7a51c43d5edf74da29d24c69eec1
+e
+5src/main/java/br/com/act/platform/util/DateUtils.java,4/8/48e4d71181c37e6dddc5e178eaa13abd9f6c9f1c
+i
+9src/test/java/br/com/act/platform/util/DateUtilsTest.java,f/b/fba7f665ea3ae9df1b482a7bc7999342ed0a19bd
+@
+build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
+g
+7src/test/java/br/com/act/platform/util/ReportUtils.java,1/0/108e295ea8547f93e1c01c1785b9e3590872544d
+k
+;src/test/java/br/com/act/platform/util/ReportUtilsTest.java,b/f/bf91c31b749179f5c075b839e7646f6f9bc36ac0
